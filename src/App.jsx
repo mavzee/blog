@@ -8,7 +8,7 @@ const blogData = [
     id: 1,
     day: "Day 1",
     title: "A Walk Through Time: Exploring Intramuros and Rizal Park",
-    date: "April 5, 2023",
+    date: "April 7, 2025",
     summary: "A day spent wandering through Manila’s historic heart—Intramuros and Rizal Park—revealed a deeper appreciation for Philippine history, culture, and the resilience of its people. This trip wasn't just sightseeing—it was a journey back in time.",
     content: `
      <p>There’s something magical about walking where history happened. Our recent trip to Intramuros and Rizal Park gave us a front-row view of Manila’s rich past, wrapped in old stone walls, national pride, and poignant memorials.</p>
@@ -28,7 +28,7 @@ const blogData = [
     id: 2,
     day: "Day 2",
     title: "Discovering Subic - SBMA and SBECC Adventures",
-    date: "July 15, 2023",
+    date: "April 8, 2025",
     summary: "On our second day, we ventured out of Manila to the vibrant and peaceful Subic Bay Freeport Zone (SBMA) and explored the exciting Subic Bay Economic and Commercial Center (SBECC). It was a day of beautiful landscapes, bustling markets, and a blend of nature and commerce.",
     content: `
       <p>After a rich experience in the heart of Manila, we made our way to Subic Bay, a former U.S. naval base turned dynamic freeport zone, now home to a flourishing economy and natural wonders. Our first stop was SBMA, the Subic Bay Metropolitan Authority, a remarkable example of how a region can evolve from military use to a thriving business and tourism hub.</p>
@@ -51,7 +51,7 @@ const blogData = [
     id: 3,
     day: "Day 3",
     title: "Heritage and Honor – Quezon Memorial Circle and the National Museum",
-    date: "November 10, 2023",
+    date: "April 9, 2025",
     summary: "Continuing our week-long journey, Day 3 took us through the political legacy of Quezon Memorial Circle and the rich cultural treasures housed in the National Museum of the Philippines—two destinations that deepened our appreciation for Filipino identity.",
     content: `
       <p> With two days of exploration behind us, Day 3 offered a deeper dive into the heart of Philippine history and nation-building. Our morning began at Quezon Memorial Circle, a green oasis in the middle of Quezon City that honors Manuel L. Quezon, the country’s first Commonwealth President. The monument’s towering structure, adorned with angel statues and housing Quezon’s tomb, stood as a solemn reminder of leadership and national progress.</p>
@@ -73,7 +73,7 @@ const blogData = [
     id: 4,
     day: "Day 4",
     title: "From Currency to Code – Bangko Sentral ng Pilipinas and HyTech Power Inc.",
-    date: "January 20, 2024",
+    date: "April 10, 2025",
     summary: "Day 4 offered a fascinating look into the evolution of finance and technology in the Philippines, as we visited the Bangko Sentral ng Pilipinas (BSP) and toured HyTech Power Inc., a company at the forefront of innovation.",
     content: `
        <p>Our fourth day was all about progress and innovation. We began with a rare and insightful visit to the Bangko Sentral ng Pilipinas (BSP), the country’s central bank. Known as the institution that safeguards the Philippine economy, BSP gave us a behind-the-scenes look at how money is made, regulated, and protected.</p>
@@ -96,7 +96,7 @@ const blogData = [
     id: 5,
     day: "Day 5",
     title: "Urban Management in Motion – MMDA and the Office of the LRTA",
-    date: "March 3, 2024",
+    date: "April 11, 2025",
     summary: "Day 5 brought us into the world of urban planning and public transportation as we visited the Metropolitan Manila Development Authority (MMDA) and the Light Rail Transit Authority (LRTA) Office, learning how the city moves and adapts to daily challenges.",
     content: `
       <p>On our fifth day, we explored two institutions responsible for keeping Metro Manila running smoothly—the MMDA and the LRTA. These agencies play vital roles in managing the flow of people, vehicles, and systems across the capital.</p>
@@ -118,7 +118,7 @@ const blogData = [
     id: 6,
     day: "Day 6",
     title: "A Breath of Fresh Air – Baguio Tour to Strawberry Farm, PMA, Burnham Park, and Night Market",
-    date: "March 3, 2024",
+    date: "April 12, 2025",
     summary: "Day 5 brought us into the world of urban planning and public transportation as we visited the Metropolitan Manila Development Authority (MMDA) and the Light Rail Transit Authority (LRTA) Office, learning how the city moves and adapts to daily challenges.",
     content: `
       <pAfter days of exploring the metro, Day 6 gave us a much-needed escape to the City of Pines—Baguio. The cooler climate and fresh mountain air instantly lifted our spirits as we began our scenic adventure.></p>
@@ -129,6 +129,82 @@ const blogData = [
       <p>From farm fields to military grounds, from peaceful parks to vibrant night markets, Day 6 was a well-rounded experience that reminded us of Baguio’s charm—both calm and alive.</p>  
     `,
     images: [
+      "/d6/head.jpg",
+      "/d6/1.jpg",
+      "/d6/2.jpg",
+      "/d6/3.jpg",
+      "/d6/4.jpg",
+      "/d6/5.jpg",
+      "/d6/6.jpg",
+      "/d6/7.jpg",
+      "/d6/8.jpg",
+       
+    ],
+  },
+  {
+    id: 7,
+    day: "Compilation",
+    title: " Rediscovering the Philippines: A 7-Day Journey of History, Innovation, and Culture",
+    date: "April 7-12, 2025",
+    summary: "In one unforgettable week, we traveled across Luzon—uncovering the nation’s rich history, learning from its modern institutions, and experiencing its diverse culture firsthand. From the walled city of Intramuros to the cool heights of Baguio, each day gave us a new lens to view the Philippines with pride and curiosity.    ",
+    content: `
+      <p>Day 1: A Walk Through Time – Intramuros and Rizal Park
+      We kicked off our journey in Manila, where the echoes of the past still live on. In Intramuros, we explored cobblestone streets, Spanish-era churches, and Fort Santiago, where heroes like José Rizal once walked. Later, we visited Rizal Park, where his monument stands as a tribute to freedom and national identity. It was a humbling day of remembrance and pride.</p>
+      <p>Day 2: Coastal Calm – Exploring SBMA and SBECC in Subic
+      Day two took us to Subic Bay, where we saw how a former military base transformed into a thriving economic zone. At SBMA, we witnessed a balance of business and nature, while the SBECC introduced us to vibrant markets, local industries, and commercial innovation. Subic showed us a progressive Philippines grounded in sustainability.
+      
+      </p>
+      <p>Day 3: Legacy and Learning – Quezon Memorial Circle and the National Museum
+      We began our third day at Quezon Memorial Circle, where we honored the legacy of President Manuel L. Quezon. In the afternoon, the National Museum immersed us in Filipino art, history, and anthropology—from Luna’s Spoliarium to pre-colonial artifacts. A perfect day to reflect on national identity through monuments and masterpieces.</p>
+      <p>Day 4: From Currency to Code – Bangko Sentral ng Pilipinas and HyTech Power Inc.
+      We explored the past and future of innovation in Day 4. At the Bangko Sentral ng Pilipinas, we learned how our currency evolved and is protected today. Then at HyTech Power Inc., we witnessed how technology is transforming industries with smart, sustainable solutions. The day highlighted how innovation drives national growth.
+      
+      </p>
+      <p>Day 5: Urban Management in Motion – MMDA and LRTA Office
+      Day five gave us insight into how the city functions behind the scenes. The MMDA showed us traffic control, emergency response, and urban planning in real time. At the LRTA office, we learned how the LRT Line 2 is maintained, operated, and improved to serve the public better. It was a day that reminded us of the hard work that keeps cities moving.</p>
+      <p>Day 6: A Breath of Fresh Air – Baguio Tour
+      We escaped the metro heat and traveled to Baguio City, where we picked strawberries in La Trinidad, visited the honorable Philippine Military Academy, relaxed at Burnham Park, and ended the day at the lively Night Market. This highland retreat gave us nature, discipline, leisure, and local flavor all in one unforgettable day.</p>
+      <p></p>`,
+    images: [
+      "/d1/head.jpg",
+      "/d1/491340765_1383524872586384_7425397214383891509_n.jpg",
+      "/d1/Day1-ODyHGS-a.jpg",
+      "/d1/Day 1.1.jpg",
+      "/d2/head.png",
+      "/d2/1.jpg",
+      "/d2/2.jpg",
+      "/d2/3.jpg",
+      "/d2/4.png",
+      "/d2/5.jpg",
+      "/d2/6.jpg",
+      "/d3/head.jpg",
+      "/d3/1.png",
+      "/d3/2.jpg",
+      "/d3/3.jpg",
+      "/d3/4.jpg",
+      "/d3/5.jpg",
+      "/d3/6.jpg",
+      "/d5/head.jpeg",
+      "/d5/1.png",
+      "/d5/2.png",
+      "/d5/3.png",
+      "/d5/4.jpg",
+      "/d5/5.jpg",
+      "/d4/head.jpg",
+      "/d4/1.png",
+      "/d4/2.png",
+      "/d4/3.jpg",
+      "/d4/4.jpg",
+      "/d4/5.jpg",
+      "/d6/head.jpg",
+      "/d6/1.jpg",
+      "/d6/2.jpg",
+      "/d6/3.jpg",
+      "/d6/4.jpg",
+      "/d6/5.jpg",
+      "/d6/6.jpg",
+      "/d6/7.jpg",
+      "/d6/8.jpg",
       "/d6/head.jpg",
       "/d6/1.jpg",
       "/d6/2.jpg",
