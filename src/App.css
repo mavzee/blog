@@ -99,7 +99,7 @@ h6 {
 
 /* Header */
 .site-header {
-  background-color: var(--primary);
+  background-color: var(--secondary);
   padding: 1.5rem 0;
   position: sticky;
   top: 0;
