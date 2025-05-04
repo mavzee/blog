@@ -238,34 +238,14 @@ function App() {
         <div className="footer-container">
           <div className="footer-content">
             <div className="footer-info">
-              <h2>Famiglia Chronicles</h2>
-              <p className="footer-motto">"Family is the strongest bond"</p>
+              <h2>Educational Tour</h2>
+              <p className="footer-motto">"- Continuity is power"</p>
             </div>
-            <div className="footer-nav">
-              <h3>Navigation</h3>
-              <ul>
-                <li>
-                  <a href="#">Home</a>
-                </li>
-                <li>
-                  <a href="#">Archives</a>
-                </li>
-                <li>
-                  <a href="#">Family Tree</a>
-                </li>
-                <li>
-                  <a href="#">Contact</a>
-                </li>
-              </ul>
-            </div>
-            <div className="footer-contact">
-              <h3>Contact</h3>
-              <p>New York City, NY</p>
-              <p>info@famigliachronicles.com</p>
-            </div>
+            
+             
           </div>
           <div className="copyright">
-            <p>&copy; {new Date().getFullYear()} Famiglia Chronicles. All rights reserved.</p>
+            <p>&copy; {new Date().getFullYear()} IvanG. All rights reserved.</p>
           </div>
         </div>
       </footer>
